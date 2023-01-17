@@ -1,5 +1,5 @@
 # UniConnect
-An application that aims to connect university students to a common study area based on their tastes and preferences. To use the application, a user will input a location on the University of Waterloo campus, input the location of their friend on the University of Waterloo, and select preferences to various study locations on campus.
+An application that aims to connect university students to a common study area based on their tastes and preferences. To use the application, a user will input a location on the University of Waterloo campus, input the location of their friend on the University of Waterloo, and select preferences to various study locations on campus. NOTE: This repository is for launching purposes only. 
 
 # Backend: matching algorithm 
 -	A server launched with flask and ngrok to send data from the frontend and backend of the application through JSON files.
